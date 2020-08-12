@@ -1,9 +1,14 @@
-import React from 'react';
-import styled from 'styled-components';
-import { MdSearch } from 'react-icons/md';
-import { GithubContext } from '../context/context';
+import React from "react";
+import styled from "styled-components";
+import { MdSearch } from "react-icons/md";
+import { GithubContext } from "../context/context";
 const Search = () => {
-  return <h2>search component</h2>;
+  const [user, setUser] = React.useState("");
+  return (
+    <section className="section">
+      <Wrapper className="section-center"></Wrapper>
+    </section>
+  );
 };
 
 const Wrapper = styled.div`
