@@ -7,6 +7,7 @@ const Login = () => {
     <Wrapper>
       <img src={loginImg} alt="Github User" />
       <h1>github user</h1>
+      <button className="btn">login</button>
     </Wrapper>
   );
 };
