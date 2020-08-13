@@ -22,4 +22,26 @@ export default [
     type: "User",
     site_admin: false,
   },
+  {
+    login: "AnoOnion",
+    id: 47703876,
+    node_id: "MDQ6VXNlcjQ3NzAzODc2",
+    avatar_url: "https://avatars1.githubusercontent.com/u/47703876?v=4",
+    gravatar_id: "",
+    url: "https://api.github.com/users/AnoOnion",
+    html_url: "https://github.com/AnoOnion",
+    followers_url: "https://api.github.com/users/AnoOnion/followers",
+    following_url:
+      "https://api.github.com/users/AnoOnion/following{/other_user}",
+    gists_url: "https://api.github.com/users/AnoOnion/gists{/gist_id}",
+    starred_url: "https://api.github.com/users/AnoOnion/starred{/owner}{/repo}",
+    subscriptions_url: "https://api.github.com/users/AnoOnion/subscriptions",
+    organizations_url: "https://api.github.com/users/AnoOnion/orgs",
+    repos_url: "https://api.github.com/users/AnoOnion/repos",
+    events_url: "https://api.github.com/users/AnoOnion/events{/privacy}",
+    received_events_url:
+      "https://api.github.com/users/AnoOnion/received_events",
+    type: "User",
+    site_admin: false,
+  },
 ];
